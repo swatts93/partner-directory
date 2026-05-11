@@ -1,0 +1,29 @@
+[
+  {
+    "name": "North Alabama Emergency Alliance",
+    "description": "Regional coalition coordinating emergency preparedness and response across North Alabama counties.",
+    "contactInfo": "contact@naea.org",
+    "website": "https://naea.org",
+    "city": "Huntsville",
+    "county": "Madison",
+    "logo": ""
+  },
+  {
+    "name": "Marshall County EMS",
+    "description": "Emergency medical services providing 24/7 coverage across Marshall County.",
+    "contactInfo": "info@mcems.org",
+    "website": "https://mcems.org",
+    "city": "Guntersville",
+    "county": "Marshall",
+    "logo": ""
+  },
+  {
+    "name": "Healthcare Alliance of North Alabama",
+    "description": "A network of healthcare providers dedicated to strengthening regional health outcomes.",
+    "contactInfo": "hello@healthcarealliance.org",
+    "website": "https://healthcarealliance.org",
+    "city": "Huntsville",
+    "county": "Madison",
+    "logo": ""
+  }
+]
